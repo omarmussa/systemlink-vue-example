@@ -1,0 +1,29 @@
+{
+   "authorizationMarker": "/plugins/vue_example_plugin/resources/marker.txt",
+   "buttonIconCls": "fa fa-check-square-o",
+   "buttonLabelToken": "vue_example_plugin.pluginTitle",
+   "buttonTooltipToken": "vue_example_plugin.pluginTitle",
+   "iframeResources": {
+      "en": {
+         "json": [
+            "resources/json/locales/en.json"
+         ]
+      }
+   },
+   "iframeSrc": "plugins/vue_example_plugin/index.html",
+   "orderWeight": 2,
+   "permission": "",
+   "resources": {
+      "en": {
+         "css": [
+            "plugins/vue_example_plugin/resources/css/vue_example_plugin.css"
+         ],
+         "json": [
+            "plugins/vue_example_plugin/resources/json/locales/en.json"
+         ]
+      }
+   },
+   "routeToken": "vue_example_plugin",
+   "titleToken": "vue_example_plugin.pluginTitle",
+   "waitUntilLaunched": false
+}
