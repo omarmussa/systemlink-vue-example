@@ -1,5 +1,5 @@
 # systemlink-vue-example
-SystemLink Vue web app as presented at https://info.gsystems.com/labviewlive/ on 17 June 2020.
+SystemLink Vue web app as presented at https://info.gsystems.com/labviewlive/ on 17 June 2020.  Here's a link to the summary of that presentation: https://www.gsystems.com/blog/labview-live-recap-effectively-leveraging-systemlink-apis-and-tools.
 Code is VueJS implementation of https://github.com/ni/systemlink-web-interface-template.
 Demonstrates client and server side filtering in custom plugin using HTTP API.
 ## Project setup
